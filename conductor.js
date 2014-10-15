@@ -1,4 +1,3 @@
-var exec = require('child_process').exec;
 var fork = require('child_process').fork;
 var path = require('path');
 var mkdirp = require('mkdirp');
