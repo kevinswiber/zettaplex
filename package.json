@@ -1,5 +1,6 @@
 {
   "name": "zettaplex",
+  "private": true,
   "version": "0.0.0",
   "description": "Run many Zetta instances at once.",
   "main": "conductor.js",
